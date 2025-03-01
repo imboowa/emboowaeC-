@@ -3,6 +3,9 @@
 ## Overview
 This is a simple C++ encryption program designed to encrypt text using a custom algorithm. The program does not rely on external libraries or graphical interfaces, making it lightweight and easy to understand. All input and output occur through the terminal.
 
+## Note 
+Whatever is encrypted here can be decrypted in this file [emboowaeC-](https://github.com/imboowa/emboowaeC-).
+
 ## Features
 - Encrypts plain text using a basic substitution or shift-based algorithm.
 - Implements the encryption logic without using any external libraries.
