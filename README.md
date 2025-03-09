@@ -7,7 +7,7 @@ This is a simple C++ encryption program designed to encrypt text using a custom 
 Whatever is encrypted here can be decrypted in this file [emboowaeC-](https://github.com/imboowa/emboowaeC-).
 
 ## Features
-- Encrypts plain text using a basic substitution or shift-based algorithm.
+- Encrypts plain text using a basic substitution.
 - Implements the encryption logic without using any external libraries.
 - Designed to be simple and educational.
 
@@ -21,6 +21,7 @@ Whatever is encrypted here can be decrypted in this file [emboowaeC-](https://gi
    - GCC: [gcc.gnu.org](https://gcc.gnu.org/)
    - Clang: [clang.llvm.org](https://clang.llvm.org/)
 3. Compile the program using your preferred compiler.
+4. Either run it in terminal as shown below in **usage** or in an IDE
 
 ## Usage
 1. Open a terminal or command prompt.
@@ -37,7 +38,7 @@ Whatever is encrypted here can be decrypted in this file [emboowaeC-](https://gi
 
 
 ## Notes
-- Input validation and edge cases (e.g., non-alphabetic characters) are handled in the logic.
+- Input validation and edge cases (e.g., non-alphabetic characters) are quiet handled in the logic.
 
 ## License
 © 2025 Immanuel Mboowa. All Rights Reserved
