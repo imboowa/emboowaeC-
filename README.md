@@ -38,7 +38,7 @@ Whatever is encrypted here can be decrypted in this file [emboowaeC-](https://gi
 
 
 ## Notes
-- Input validation and edge cases (e.g., non-alphabetic characters) are quiet handled in the logic.
+- Input validation and edge cases (e.g., non-alphabetic characters) are quite handled in the logic.
 
 ## License
 © 2025 Immanuel Mboowa. All Rights Reserved
